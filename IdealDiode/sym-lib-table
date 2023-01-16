@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "RSJ650N10TL")(type "KiCad")(uri "C:/Users/Arne/Dropbox/Documents/PersonalProjects/Step/IdealDiode/RSJ650N10TL.kicad_sym")(options "")(descr ""))
+  (lib (name "1017521")(type "KiCad")(uri "C:/Users/Arne/Dropbox/Documents/PersonalProjects/Step/IdealDiode/1017521.kicad_sym")(options "")(descr ""))
+  (lib (name "EEV-FK2A221M")(type "KiCad")(uri "C:/Users/Arne/Dropbox/Documents/PersonalProjects/Step/IdealDiode/EEVFK2A221M.kicad_sym")(options "")(descr ""))
+  (lib (name "4525")(type "KiCad")(uri "C:/Users/Arne/Dropbox/Documents/PersonalProjects/Step/IdealDiode/2023-01-06_11-59-00.kicad_sym")(options "")(descr ""))
+)
