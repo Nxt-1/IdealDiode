@@ -11,3 +11,5 @@ By fully saturating the transitor's gate, the voltage drop source and drain is i
 This project is designed to be used when charching multiple 36V nominal (42V max) lithium battery packs in parallel. Specifically batteries with separated charge port BMS, that are always energised. If no protection was implemented, connecting the batteries in parallel could cause the full battery current of a battery with a higher state of charge to flow through the other battery's chargeport. Using a regular diode would effectively lower the maximum charge voltage by the diode's voltage drop, thus decreasing the usable battery capacity. Hence the ideal diode circuit.
 
 ## Specifactions
+
+The device is designed to withstand 42V nomimal and a charge current of 5A.
